@@ -3,7 +3,7 @@ Module 4 Pandas Challenge by Mwohania (Nia) Taylor
 
 Repo for UC Berkeley Data Analytics Bootcamp
 
-The Jupyter notebook PyCitySchools.ipynb in the PyCitySchools folder analyzes the standardized test data in the Resources folder for 15 high schools in PyCity. The script contains the following:
+The Jupyter notebook in the PyCitySchools folder analyzes the standardized test data 15 high schools in PyCity from .csv files. The script contains the following:
 - Written analysis of trends in the dataset
 - Limitations of the dataset and how to address the limitations
 - District summary (basic metrics for all schools)
